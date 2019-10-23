@@ -1,5 +1,3 @@
-const { connect } = require('./client');
-
 // Stores the active TCP connection object.
 let connection;
 
